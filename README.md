@@ -1,7 +1,7 @@
 <h1 align="center">Hello! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="46" height="46"></h1>
 
 <p align="center">
-    <b> Soy Emir un Desarrollador Web, tengo 20 años<br>Soy de Argentina</b><br><br>
+    <b> Soy Emir un Desarrollador Web, tengo 21 años<br>Soy de Argentina</b><br><br>
     <a href="https://www.linkedin.com/in/Emir-Nazar">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
